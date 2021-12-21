@@ -1,7 +1,7 @@
 ---
 home: true
 heroText: "个人首页"
-tagline: "欢迎来到我的个人博客专栏"
+tagline: "On the back of the back to the distace,the dream destination."
 # heroImage: /hero.png
 # heroImageStyle:
 #   {

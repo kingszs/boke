@@ -20,7 +20,7 @@ module.exports = {
       {
         text: "文章",
         icon: "reco-message",
-        items: [{ text: "vuepress-reco", link: "/docs/theme-reco/" }],
+        items: [{ text: "杂谈", link: "/docs/other/" }],
       },
       {
         text: "联系",
@@ -29,8 +29,13 @@ module.exports = {
           // 联系我的相关配置
           {
             text: "GitHub",
-            link: "hhttps://github.com/kingszs",
+            link: "https://github.com/kingszs",
             icon: "reco-github",
+          },
+          {
+            text: "Gitee",
+            link: "https://gitee.com/paidaxing258",
+            icon: "reco-mayun",
           },
         ],
       },
@@ -57,17 +62,16 @@ module.exports = {
       //
       {
         title: "派大星",
-        desc: "当你开始工作时，你就必须非常认真的去完成！",
+        desc: "少年易学老难成，一寸光阴不可轻。",
         email: "576560107@qq.com",
         // link: "https://www.recoluan.com",
       },
-      // {
-      //   title: "vuepress-theme-reco",
-      //   desc: "A simple and beautiful vuepress Blog & Doc theme.",
-      //   avatar:
-      //     "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
-      //   link: "https://vuepress-theme-reco.recoluan.com",
-      // },
+      {
+        title: "快去催更新",
+        desc: "他已经好久没有更新了",
+        email: "576560107@qq.com",
+        // link: "https://www.recoluan.com",
+      },
     ],
     logo: "/logo.png",
     // 搜索设置
